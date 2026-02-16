@@ -11,7 +11,7 @@ The same dataset was used for both:
 
 ---
 
-# 🟢 PART 1: Excel Dashboard
+# PART 1: Excel Dashboard
 
 ## 🎯 Objective
 
@@ -36,7 +36,7 @@ Build an interactive Sales Performance Dashboard.
 
 ---
 
-# 🔵 PART 2: SQL Analysis (PostgreSQL)
+# PART 2: SQL Analysis (PostgreSQL)
 
 ## 🎯 Objective
 
