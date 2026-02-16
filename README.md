@@ -81,9 +81,10 @@ Perform structured data analysis using SQL queries.
 
 ## 📂 Project Structure
 
-- sales_analysis.sql
-- README.md
-- Sales_Performance_Dashboard.xlsx
+- 📄 [sales_analysis.sql](./sales_analysis.sql)
+- 📘 [README.md](./README.md)
+- 📊 [Sales_Performance_Dashboard.xlsx](./Sales_Performance_Dashboard.xlsx)
+- 📁 [dataset.csv](./dataset.csv)
 
 ---
 
