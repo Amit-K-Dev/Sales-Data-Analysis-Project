@@ -105,6 +105,26 @@ Perform structured data analysis using SQL queries.
 
 ---
 
+## ▶ How to Use This Project
+
+1. Download the dataset (`dataset.csv`)
+2. Open `Sales_Performance_Dashboard.xlsx` to explore the interactive dashboard
+3. Run `sales_analysis.sql` in PostgreSQL to reproduce the SQL analysis
+4. Compare SQL insights with Excel dashboard findings
+
+---
+
+## 📈 Business Impact
+
+This project demonstrates how raw retail sales data can be transformed into:
+
+- Actionable insights
+- Regional performance tracking
+- Profitability analysis
+- Decision-ready dashboards
+
+---
+
 ## 🚀 Author
 
 Amit Kumar  
