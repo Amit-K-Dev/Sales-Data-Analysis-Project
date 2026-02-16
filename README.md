@@ -84,6 +84,10 @@ Perform structured data analysis using SQL queries.
 
 ---
 
+## 📊 Download Dashboard
+
+[⬇ Download Excel Dashboard](./Sales_Performance_Dashboard.xlsx)
+
 ## 📂 Project Structure
 
 - 📄 [sales_analysis.sql](./sales_analysis.sql)
