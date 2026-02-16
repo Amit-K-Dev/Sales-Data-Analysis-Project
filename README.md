@@ -14,6 +14,14 @@ This project analyzes retail sales data to:
 - Build an interactive Excel dashboard
 - Generate business insights using SQL
 
+## 🛠 Tech Stack
+
+- Excel (Dashboard, Pivot Tables, Charts)
+- SQL (PostgreSQL)
+- Data Cleaning & Aggregation
+- Window Functions
+- Git & GitHub
+
 ---
 
 # PART 1: Excel Dashboard
