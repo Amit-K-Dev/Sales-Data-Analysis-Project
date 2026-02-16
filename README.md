@@ -1,17 +1,22 @@
-# 📊 PROJECT 1: Sales Data Analysis (Excel + SQL)
+# 📊 Sales Data Analysis Project (Excel + SQL)
 
-## 📌 Overview
-
-This project analyzes a retail sales dataset using **Excel and SQL (PostgreSQL)** to uncover insights about sales performance, profitability, customer behavior, and regional trends.
-
-The same dataset was used for both:
-
-- Excel Dashboard Visualization
-- SQL Analytical Queries
+> End-to-end sales performance analysis using Excel dashboards and SQL queries.
 
 ---
 
-# 🟢 PART 1: Excel Dashboard
+## 🚀 Project Overview
+
+This project analyzes retail sales data to:
+
+- Identify top-performing categories and regions
+- Calculate profit margins
+- Detect most profitable month-region combinations
+- Build an interactive Excel dashboard
+- Generate business insights using SQL
+
+---
+
+# PART 1: Excel Dashboard
 
 ## 🎯 Objective
 
@@ -36,7 +41,7 @@ Build an interactive Sales Performance Dashboard.
 
 ---
 
-# 🔵 PART 2: SQL Analysis (PostgreSQL)
+# PART 2: SQL Analysis (PostgreSQL)
 
 ## 🎯 Objective
 
