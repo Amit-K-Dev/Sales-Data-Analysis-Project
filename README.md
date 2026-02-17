@@ -4,6 +4,20 @@
 
 ---
 
+## 🎯 Business Problem
+
+A retail company wants to understand its sales performance across categories, regions, and time periods.
+
+Management needs answers to:
+
+- Which product categories generate the highest revenue and profit?
+- Which regions are underperforming?
+- How does monthly and yearly performance trend over time?
+- Which categories have low profit margins despite high sales?
+
+The goal is to use data-driven analysis to identify growth opportunities and improve profitability.
+
+
 ## 🚀 Project Overview
 
 This project analyzes retail sales data to:
