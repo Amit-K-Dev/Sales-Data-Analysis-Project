@@ -130,14 +130,20 @@ Perform structured data analysis using SQL queries.
 
 ---
 
-## 📈 Business Impact
+## 💼 Business Impact
 
-This project demonstrates how raw retail sales data can be transformed into:
+This project demonstrates how structured data analysis can support business decision-making.
 
-- Actionable insights
-- Regional performance tracking
-- Profitability analysis
-- Decision-ready dashboards
+The dashboard enables stakeholders to:
+
+- 📊 Monitor overall sales and profitability performance
+- 🌍 Identify high-performing regions and underperforming segments
+- 📦 Optimize product category strategies based on profit margins
+- 📅 Track seasonal sales trends for better forecasting
+- 🎯 Make data-driven decisions using clear, visual insights
+
+By combining SQL-based analysis with Excel dashboards, the project simulates a real-world business intelligence workflow from raw data to executive-level reporting.
+
 
 ---
 
