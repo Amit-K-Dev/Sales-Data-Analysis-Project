@@ -85,12 +85,14 @@ Perform structured data analysis using SQL queries.
 
 ---
 
-## 📈 Key Insights
+## 📊 Key Business Insights
 
-- Technology category generated the highest sales and profit.
-- West region was the most profitable.
-- January 2014 was the most profitable month.
-- Office Supplies had the lowest profit margin.
+- 🏆 The Technology category was the primary revenue and profit driver, indicating strong demand and pricing power.
+- 📍 The West region consistently outperformed other regions in profitability, suggesting effective regional strategy.
+- 📅 Sales peaked in January 2014, highlighting strong seasonal performance.
+- ⚠️ Office Supplies showed relatively lower profit margins, indicating potential pricing or cost optimization opportunities.
+- 📈 Profit margin varied significantly across categories, suggesting room for strategic product mix adjustments.
+
 
 ---
 
