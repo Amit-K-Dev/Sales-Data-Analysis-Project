@@ -1,6 +1,9 @@
 # 📊 Sales Data Analysis Project (Excel + SQL)
 
-> End-to-end sales performance analysis using Excel dashboards and SQL queries.
+An end-to-end retail sales performance analysis project demonstrating SQL data querying, Excel dashboard development, and business insight generation.
+
+This project simulates a real-world scenario where business stakeholders require actionable insights from transactional sales data.
+
 
 ---
 
